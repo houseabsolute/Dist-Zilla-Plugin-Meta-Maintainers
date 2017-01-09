@@ -4,7 +4,7 @@ Dist::Zilla::Plugin::Meta::Maintainers - Generate an x\_maintainers section in d
 
 # VERSION
 
-version 0.003
+version 0.01
 
 # SYNOPSIS
 
